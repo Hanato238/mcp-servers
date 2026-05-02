@@ -52,3 +52,9 @@
 [submodule "youtube"]
 	path = youtube
 	url = https://github.com/JCodesMore/youtube-for-ai-agents
+[submodule "gemini-cli-security"]
+	path = gemini-cli-security
+	url = https://github.com/gemini-cli-extensions/security
+[submodule "gyaru"]
+	path = gyaru
+	url = https://github.com/yuys13/gemini-cli-extension-gyaru
