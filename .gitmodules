@@ -22,3 +22,33 @@
 [submodule "openevidence-mcp"]
 	path = openevidence-mcp
 	url = https://github.com/Hanato238/openevidence-mcp
+[submodule "context7"]
+	path = context7
+	url = https://github.com/upstash/context7
+[submodule "desktop-commander"]
+	path = desktop-commander
+	url = https://github.com/wonderwhy-er/DesktopCommanderMCP
+[submodule "Figma"]
+	path = Figma
+	url = https://github.com/figma/mcp-server-guide
+[submodule "github"]
+	path = github
+	url = https://github.com/github/github-mcp-server
+[submodule "google-maps-platform"]
+	path = google-maps-platform
+	url = https://github.com/googlemaps/platform-ai
+[submodule "google-workspace-cli"]
+	path = google-workspace-cli
+	url = https://github.com/googleworkspace/cli
+[submodule "hardening-agent"]
+	path = hardening-agent
+	url = https://github.com/GoogleCloudPlatform/gcp-hardening-toolkit
+[submodule "huggingface"]
+	path = huggingface
+	url = https://github.com/huggingface/hf-mcp-server
+[submodule "observability"]
+	path = observability
+	url = https://github.com/gemini-cli-extensions/observability
+[submodule "youtube"]
+	path = youtube
+	url = https://github.com/JCodesMore/youtube-for-ai-agents
