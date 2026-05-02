@@ -1,0 +1,21 @@
+[submodule "brightdata"]
+	path = brightdata
+	url = https://github.com/Hanato238/brightdata-mcp
+[submodule "drawio-mcp"]
+	path = drawio-mcp
+	url = https://github.com/Hanato238/drawio-mcp
+[submodule "markitdown"]
+	path = markitdown
+	url = https://github.com/Hanato238/markitdown
+[submodule "mcp-official-servers"]
+	path = mcp-official-servers
+	url = https://github.com/Hanato238/servers
+[submodule "perplexity-mcp"]
+	path = perplexity-mcp
+	url = https://github.com/Hanato238/modelcontextprotocol
+[submodule "playwright-mcp"]
+	path = playwright-mcp
+	url = https://github.com/Hanato238/playwright-mcp
+[submodule "serena"]
+	path = serena
+	url = https://github.com/Hanato238/serena
