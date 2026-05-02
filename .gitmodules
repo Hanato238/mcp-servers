@@ -19,3 +19,6 @@
 [submodule "serena"]
 	path = serena
 	url = https://github.com/Hanato238/serena
+[submodule "openevidence-mcp"]
+	path = openevidence-mcp
+	url = https://github.com/Hanato238/openevidence-mcp
