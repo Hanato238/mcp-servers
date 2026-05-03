@@ -58,3 +58,6 @@
 [submodule "gyaru"]
 	path = gyaru
 	url = https://github.com/yuys13/gemini-cli-extension-gyaru
+[submodule "todoist"]
+	path = todoist
+	url = https://github.com/Hanato238/todoist-ai.git
